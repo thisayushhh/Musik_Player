@@ -1,4 +1,4 @@
-console.log("Welcome to Spotify");
+console.log("Welcome to Musik Player");
 
 // Initialize the Variables
 let songIndex = 0;
